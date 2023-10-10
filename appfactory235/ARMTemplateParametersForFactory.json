@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "appfactory235"
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"datalake235_service_accountKey": {
+			"value": ""
+		},
+		"dataworkspace235_pooldb_service_connectionString": {
+			"value": ""
+		},
+		"datalake235_service_properties_typeProperties_url": {
+			"value": "https://datalake235.dfs.core.windows.net/"
+		}
+	}
+}
